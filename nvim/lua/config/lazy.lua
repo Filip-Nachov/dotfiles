@@ -11,11 +11,9 @@ require("lazy").setup({
   spec = {
     -- add LazyVim and import its plugins
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
-    -- import any extras modules here
-    -- { import = "lazyvim.plugins.extras.lang.typescript" },
-    -- { import = "lazyvim.plugins.extras.lang.json" },
-    -- { import = "lazyvim.plugins.extras.ui.mini-animate" },
-    -- import/override with your plugins
+    { import = "lazyvim.plugins.extras.lang.pyright" }, -- Add Pyright LSP server for Python
+    { import = "lazyvim.plugins.extras.lang.clangd" }, -- Add clangd LSP server for C/C++
+    { import = "lazyvim.plugins.extras.lang.java" }, -- Add java-language-server for Java
     { import = "plugins" },
   },
   defaults = {
