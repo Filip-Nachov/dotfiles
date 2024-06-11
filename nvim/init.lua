@@ -1,6 +1,7 @@
 print("Hello World")
 
--- importing all the neceserry files
-require('settings')
-require('plugins')
-require('keybinds')
+-- importing necceserry files
+require('core.plugins')
+require('core.settings')
+require('core.keybinds')
+require('core.plugin_config')
