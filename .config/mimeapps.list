@@ -1,0 +1,27 @@
+[Added Associations]
+video/x-matroska=firefox.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-7EV4P2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-7EV4P2.desktop;
+x-scheme-handler/news=userapp-Thunderbird-C4OGQ2.desktop;
+x-scheme-handler/snews=userapp-Thunderbird-C4OGQ2.desktop;
+x-scheme-handler/nntp=userapp-Thunderbird-C4OGQ2.desktop;
+x-scheme-handler/feed=userapp-Thunderbird-E2ZAQ2.desktop;
+application/rss+xml=userapp-Thunderbird-E2ZAQ2.desktop;
+application/x-extension-rss=userapp-Thunderbird-E2ZAQ2.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-IRB9P2.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-IRB9P2.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-7EV4P2.desktop
+message/rfc822=userapp-Thunderbird-7EV4P2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-7EV4P2.desktop
+x-scheme-handler/news=userapp-Thunderbird-C4OGQ2.desktop
+x-scheme-handler/snews=userapp-Thunderbird-C4OGQ2.desktop
+x-scheme-handler/nntp=userapp-Thunderbird-C4OGQ2.desktop
+x-scheme-handler/feed=userapp-Thunderbird-E2ZAQ2.desktop
+application/rss+xml=userapp-Thunderbird-E2ZAQ2.desktop
+application/x-extension-rss=userapp-Thunderbird-E2ZAQ2.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-IRB9P2.desktop
+text/calendar=userapp-Thunderbird-IRB9P2.desktop
+application/x-extension-ics=userapp-Thunderbird-IRB9P2.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-IRB9P2.desktop

@@ -1,0 +1,17 @@
+# ~/.config/alacritty/alacritty.yml
+
+
+
+window:
+  dynamic_title: true  
+  decorations: Transparent
+  startup_mode: Maximized
+  opacity: 0.8  
+
+font:
+  normal:
+    family: "Hack Nerd Font"  # Replace with the name of the Nerd Font you installed
+    style: Regular  # or other styles like Bold, Italic, etc., if supported
+  size: 12  # Adjust the font size as per your preference
+  
+
