@@ -1,2 +1,0 @@
-connect.dial_devices="[{\"address\":\"192.168.0.175\",\"app_state\":\"INSTALLED\",\"created_timestamp\":1719486027,\"device_id\":\"e34d423e-b1b7-458c-bb1e-e859d8b66c20\",\"dial_location_url\":\"http://192.168.0.175:1187/\",\"display_name\":\"[LG] webOS TV UK6470PLC\",\"last_seen\":1719523997,\"manufacturer\":\"LG Electronics\",\"model_name\":\"65UK6470PLC\",\"product_cap\":\"\",\"public_ip\":\"89.205.63.69\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"a823feaeeb81\",\"port\":9,\"retries\":2400}}]"
-audio.play_bitrate_non_metered_migrated=true
