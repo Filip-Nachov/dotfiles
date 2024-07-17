@@ -13,13 +13,14 @@ local packer_bootstrap = ensure_packer()
 
 return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
+  use 'folke/tokyonight.nvim'
   use 'nvim-lualine/lualine.nvim'
-  use 'morhetz/gruvbox'
   use 'nvim-tree/nvim-tree.lua'
   use 'nvim-tree/nvim-web-devicons'
   use 'nvim-treesitter/nvim-treesitter'
   use 'hrsh7th/nvim-cmp'
   use 'hrsh7th/cmp-nvim-lsp'
+  use { "catppuccin/nvim", as = "catppuccin" }
   use {
     'nvim-telescope/telescope.nvim',
     requires = { {'nvim-lua/plenary.nvim'} }
@@ -29,6 +30,8 @@ return require('packer').startup(function(use)
       "williamboman/mason-lspconfig.nvim",
       "neovim/nvim-lspconfig"
   }
+  use 'nvim-lua/plenary.nvim' 
+  use 'ThePrimeagen/harpoon'
   -- My plugins here
   -- use 'foo1/bar1.nvim'
   if packer_bootstrap then
