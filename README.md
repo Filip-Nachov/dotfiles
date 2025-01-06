@@ -6,7 +6,7 @@ I am new to ricing, arch linux and this kind of stuff so treat lightly
 OS: Linux <br>
 Distro: Arch (I use arch btw) <br>
 Terminal: Alacritty <br>
-WM : i3 <br>
+WM : Hyprland <br>
 login-manager: lightdm (with webkit2) <br>
 device: Lenovo Laptop, PC (custom) <br>
 
